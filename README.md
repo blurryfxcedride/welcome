@@ -1,4 +1,6 @@
 # Read Me
 Hi, my name is blurryfxcedride.
 
-My projects are mostly for Discord. I mostly make Discord hacks and Discord bot APIs
+I make a lot of games, websites, and stuff for Discord like bots and apis.
+
+If you need to contact me I have a link to my profile page somewhere on my GitHub profile
